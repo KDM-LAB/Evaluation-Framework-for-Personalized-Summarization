@@ -1,2 +1,2 @@
-# D-INS
-Developing an evaluation metric for better ranking adaptive text summarization models
+# e-DINS
+Developing an evaluation metric for better ranking personalized text summarization models

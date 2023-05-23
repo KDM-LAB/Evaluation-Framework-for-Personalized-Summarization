@@ -25,6 +25,7 @@ More infor please refer to the homepage of the [introduction of PENS dataset](ht
 ## II. Data Manipulation for Evaluation
 - Collect the model generated summaries and move it to "darsh" directory.
 - Run the dataset generation notebook to prepare the dataset for evaluation.
+- Place the news.tsv file in darsh directory
 
 ## III. Calculation of e-DINS<sub>sub</sub>
 

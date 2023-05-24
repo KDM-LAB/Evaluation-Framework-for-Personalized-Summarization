@@ -1,4 +1,4 @@
-# e-DINS<sub>sub</sub>
+# Evaluation Metric for Personalized Summarization<sub>sub</sub>
 Developing an evaluation metric "Effective degree of insensitivity w.r.t subjectivity (e-DINS<sub>sub</sub>)" for better ranking personalized text summarization models.
 
 ## {PENS}: A Dataset and Generic Framework for Personalized News Headline Generation
@@ -29,3 +29,7 @@ More infor please refer to the homepage of the [introduction of PENS dataset](ht
 
 ## III. Calculation of e-DINS<sub>sub</sub>
 
+## IV. Calculation of e-DINS<sub>TV</sub>
+- Move the combined_dataset.pkl to darsh directory to calculate the score
+- Run the Temporal Variance Notebook according to the guided steps in the notebook
+- 5-model-dataset.json file is also needed for calculation of rouge score

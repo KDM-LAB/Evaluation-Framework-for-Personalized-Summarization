@@ -1,6 +1,8 @@
-# Evaluation Metric for Personalized Summarization<sub>sub</sub>
-Developing an evaluation metric "Effective degree of insensitivity w.r.t subjectivity (e-DINS<sub>sub</sub>)" for better ranking personalized text summarization models.
-
+# Evaluation Metric for Personalized Summarization
+Developing an evaluation metric "Effective degree of insensitivity (e-DINS)" for better ranking personalized text summarization models.
+##e-DINS<sub>sub</sub>
+##e-DINS<sub>TV</sub>
+The study aims to introduce a new metric e − DINS<sub>TV</sub> which considers the rate of change of model generated summaries when compared to rate of change of user profiles with respect to time. The perception of saliency is subjective and in case of temporal variance, it changes overtime for each user.
 ## {PENS}: A Dataset and Generic Framework for Personalized News Headline Generation
 This is a Pytorch implementation of [PENS](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/ACL2021_PENS_Camera_Ready_1862_Paper.pdf). 
 

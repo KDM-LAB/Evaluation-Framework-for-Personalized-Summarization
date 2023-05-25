@@ -25,13 +25,13 @@ More infor please refer to the homepage of the [introduction of PENS dataset](ht
 
 
 ## II. Data Manipulation for Evaluation
-- Collect the model generated summaries and move it to "darsh" directory.
+- Collect the model generated summaries and move it to "temporal_variance" directory.
 - Run the dataset generation notebook to prepare the dataset for evaluation.
-- Place the news.tsv file in darsh directory
+- Place the news.tsv file in "temporal_variance" directory
 
 ## III. Calculation of e-DINS<sub>sub</sub>
 
 ## IV. Calculation of e-DINS<sub>TV</sub>
-- Move the combined_dataset.pkl to darsh directory to calculate the score
+- Move the combined_dataset.pkl to "temporal_variance" directory to calculate the score
 - Run the Temporal Variance Notebook according to the guided steps in the notebook
 - 5-model-dataset.json file is also needed for calculation of rouge score

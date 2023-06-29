@@ -35,7 +35,7 @@ More infor please refer to the homepage of the [introduction of PENS dataset](ht
 
 ## III. Calculation of e-DINS<sub>sub</sub>
 - Use model-generated summary to convert into distribution form using data_distb.py
-- Use cal_e_DINS.py to calculate e-DINS<sub>sub</sub> score for the model
+- Use cal_e_DINS.py to calculate e-DINS<sub>sub</sub> score for the model using previously generated distribution 
   
 ## IV. Calculation of e-DINS<sub>TV</sub>
 - Move the combined_dataset.pkl to "temporal_variance" directory to calculate the score

@@ -1,4 +1,6 @@
 Drive link : https://drive.google.com/drive/u/1/folders/1FdgHtD_MbqfDB-pH6U_6SU39_ZRLvbTq
+Temporal Variance (latex) : https://www.overleaf.com/1384526853cxdwwvnbpkyz
+Subjectivity thesis (latex): https://www.overleaf.com/4386951954dryxkrxzrrmw
 
 # Evaluation Metric for Personalized Summarization
 Developing an evaluation metric "Effective degree of insensitivity (e-DINS)" for better ranking personalized text summarization models.
@@ -32,7 +34,9 @@ More infor please refer to the homepage of the [introduction of PENS dataset](ht
 - Place the news.tsv file in "temporal_variance" directory
 
 ## III. Calculation of e-DINS<sub>sub</sub>
-
+- Use model-generated summary to convert into distribution form using data_distb.py
+- Use cal_e_DINS.py to calculate e-DINS<sub>sub</sub> score for the model
+  
 ## IV. Calculation of e-DINS<sub>TV</sub>
 - Move the combined_dataset.pkl to "temporal_variance" directory to calculate the score
 - Run the Temporal Variance Notebook according to the guided steps in the notebook

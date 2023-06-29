@@ -1,3 +1,5 @@
+Drive link : https://drive.google.com/drive/u/1/folders/1FdgHtD_MbqfDB-pH6U_6SU39_ZRLvbTq
+
 # Evaluation Metric for Personalized Summarization
 Developing an evaluation metric "Effective degree of insensitivity (e-DINS)" for better ranking personalized text summarization models.
 ## e-DINS<sub>sub</sub>
